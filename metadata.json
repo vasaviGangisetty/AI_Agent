@@ -1,0 +1,7 @@
+{
+  "name": "AI Travel Planning Agent",
+  "description": "Intelligent trip itinerary generator, real-time budget dashboard, weather advisor, and crowd-aware expense optimizer for solo and group travelers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
